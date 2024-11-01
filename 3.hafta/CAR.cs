@@ -6,7 +6,7 @@ public class KiralikArac
     public bool Durum { get; private set; }
 
     // Yapıcı Metot: Plaka ve günlük ücret alır;
-    // MusaitMi varsayılan olarak true
+    // Durum varsayılan olarak true
     public KiralikArac(string plaka, decimal gunlukUcret)
     {
         Plaka = plaka;
@@ -14,7 +14,7 @@ public class KiralikArac
         Durum = true;
     }
 
-    // Aracı kiralama metodu: MusaitMi'yi false yapar
+    // Aracı kiralama metodu: Durum'u false yapar
     public void AraciKirala()
     {
         if (Durum)
@@ -23,7 +23,7 @@ public class KiralikArac
         }
     }
 
-    // Aracı teslim etme metodu: MusaitMi'yi true yapar
+    // Aracı teslim etme metodu:  Durum'u true yapar
     public void AraciTeslimEt()
     {
         Durum = true;
