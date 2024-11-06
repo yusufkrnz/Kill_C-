@@ -1,0 +1,10 @@
+C:\Users\emin_\source\repos\TİC\TİC\bin\Debug\TİC.exe.config
+C:\Users\emin_\source\repos\TİC\TİC\bin\Debug\TİC.exe
+C:\Users\emin_\source\repos\TİC\TİC\bin\Debug\TİC.pdb
+C:\Users\emin_\source\repos\TİC\TİC\obj\Debug\TİC.csprojAssemblyReference.cache
+C:\Users\emin_\source\repos\TİC\TİC\obj\Debug\TİC.Form1.resources
+C:\Users\emin_\source\repos\TİC\TİC\obj\Debug\TİC.Properties.Resources.resources
+C:\Users\emin_\source\repos\TİC\TİC\obj\Debug\TİC.csproj.GenerateResource.cache
+C:\Users\emin_\source\repos\TİC\TİC\obj\Debug\TİC.csproj.CoreCompileInputs.cache
+C:\Users\emin_\source\repos\TİC\TİC\obj\Debug\TİC.exe
+C:\Users\emin_\source\repos\TİC\TİC\obj\Debug\TİC.pdb
