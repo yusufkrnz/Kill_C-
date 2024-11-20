@@ -1,0 +1,10 @@
+C:\Users\emin_\source\repos\Mayinn\Mayinn\bin\Debug\Mayinn.exe.config
+C:\Users\emin_\source\repos\Mayinn\Mayinn\bin\Debug\Mayinn.exe
+C:\Users\emin_\source\repos\Mayinn\Mayinn\bin\Debug\Mayinn.pdb
+C:\Users\emin_\source\repos\Mayinn\Mayinn\obj\Debug\Mayinn.csprojAssemblyReference.cache
+C:\Users\emin_\source\repos\Mayinn\Mayinn\obj\Debug\Mayinn.Form1.resources
+C:\Users\emin_\source\repos\Mayinn\Mayinn\obj\Debug\Mayinn.Properties.Resources.resources
+C:\Users\emin_\source\repos\Mayinn\Mayinn\obj\Debug\Mayinn.csproj.GenerateResource.cache
+C:\Users\emin_\source\repos\Mayinn\Mayinn\obj\Debug\Mayinn.csproj.CoreCompileInputs.cache
+C:\Users\emin_\source\repos\Mayinn\Mayinn\obj\Debug\Mayinn.exe
+C:\Users\emin_\source\repos\Mayinn\Mayinn\obj\Debug\Mayinn.pdb
