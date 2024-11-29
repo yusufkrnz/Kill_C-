@@ -1,0 +1,10 @@
+C:\Users\emin_\source\repos\CarGame\CarGame\obj\Debug\CarGame.csprojAssemblyReference.cache
+C:\Users\emin_\source\repos\CarGame\CarGame\obj\Debug\CarGame.Form1.resources
+C:\Users\emin_\source\repos\CarGame\CarGame\obj\Debug\CarGame.Properties.Resources.resources
+C:\Users\emin_\source\repos\CarGame\CarGame\obj\Debug\CarGame.csproj.GenerateResource.cache
+C:\Users\emin_\source\repos\CarGame\CarGame\obj\Debug\CarGame.csproj.CoreCompileInputs.cache
+C:\Users\emin_\source\repos\CarGame\CarGame\bin\Debug\CarGame.exe.config
+C:\Users\emin_\source\repos\CarGame\CarGame\bin\Debug\CarGame.exe
+C:\Users\emin_\source\repos\CarGame\CarGame\bin\Debug\CarGame.pdb
+C:\Users\emin_\source\repos\CarGame\CarGame\obj\Debug\CarGame.exe
+C:\Users\emin_\source\repos\CarGame\CarGame\obj\Debug\CarGame.pdb
